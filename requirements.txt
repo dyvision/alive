@@ -1,2 +1,2 @@
-pipwin
+screeninfo
 pynput
